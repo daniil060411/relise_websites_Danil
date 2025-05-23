@@ -1,0 +1,119 @@
+body {
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+body img{
+    width: 65px;
+    top: 100px;
+}
+header p{
+    color: rgb(0, 192, 240);
+    border: 1px solid rgb(76, 76, 255);
+    border-radius: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+header{
+    padding-bottom: 250px;
+    background-image: url(https://www.designyourway.net/blog/wp-content/uploads/2024/10/Fortnite-featured-1.jpg);
+    border-radius: 25px;
+}
+
+ .ed{
+   background: linear-gradient(to right, blue, cyan);
+   border-radius: 25px;
+   margin-left: 225px;
+   margin-right: 225px;
+   margin-top: 100px;
+
+}
+
+body{
+   background: linear-gradient(blue, lightblue, cyan);
+   text-align: center;
+}
+
+.dr img,.dr1 img,.dr2 img,.dr3 img,.dr4 img,.dr5 img{
+
+   width: 100px;
+   border-radius: 10px;
+}
+
+.dr img:hover,.dr1 img:hover,.dr2 img:hover,.dr3 img:hover,.dr4 img:hover,.dr5 img:hover{
+
+   width:125px;
+   transition: 1s;
+}
+
+.dr p{
+
+   background-color: dimgrey;
+   border-radius: 10px;
+   margin: 10px;
+}
+
+.dr1 p{
+
+   background-color: rgb(32, 224, 3);
+   border-radius: 10px;
+   margin: 10px;
+}
+
+.dr2 p{
+
+   background-color: rgb(8, 73, 253);
+   border-radius: 10px;
+   margin: 10px;
+}
+
+.dr3 p{
+
+   background-color: rgb(128, 0, 255);
+   border-radius: 10px;
+   margin: 10px;
+}
+
+.dr4 p{
+
+   background-color: rgb(255, 179, 0);
+   border-radius: 10px;
+   margin: 10px;
+}
+.dr5 p{
+
+   background-color: rgb(255, 72, 0);
+   border-radius: 10px;
+   margin: 10px;
+}
+
+
+nav a{
+   text-decoration: none;
+   background: linear-gradient(lightblue, blue, pink);
+   border-radius: 5px;
+   margin-right: 625px;
+   display:block;
+   padding: 5px;
+   color: yellow;
+   padding-right: 15px;
+   margin-top: 15px;
+   position:relative;
+
+   
+}
+div{
+   position:absolute;
+   padding-left: 300px;
+   
+}
+.f{
+   text-align: center;
+}
+footer{
+   background-color: aquamarine;
+   color: 
+}
+
+
+
