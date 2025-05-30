@@ -115,5 +115,9 @@ footer{
    color: 
 }
 
-
+nav{
+   text-align: center;
+   position:relative;
+   left: 300px;
+}
 
