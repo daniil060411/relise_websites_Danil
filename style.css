@@ -3,6 +3,8 @@ body {
     text-decoration: none;
 }
 
+html { scroll-behavior: smooth}
+
 body img{
     width: 65px;
     top: 100px;
@@ -117,7 +119,6 @@ footer{
 
 nav{
    position:relative;
-    transition: 1s;
-   left: 500px;
+   left: 450px;
 }
 
